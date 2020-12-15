@@ -1,12 +1,7 @@
-![logo](_media/icon.svg)
+<img style="width:200px;" src="./img/ym.jpg">
 
-# docsify <small>3.5</small>
+> 记录学习笔记
 
-> 一个神奇的文档网站生成器。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
-
-[GitHub](/ss)
-[Get Started](/)
+[钻地机](/)
+[手摸手](/project/)
