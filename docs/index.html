@@ -14,13 +14,17 @@
     <div id="app">加载中</div>
     <script>
         window.$docsify = {
-            loadSidebar: true,
+            loadSidebar: true,//侧边栏
+            subMaxLevel: 2,//开启二级目录
+            loadNavbar: true,//开启头部导航
+            coverpage: true,//开启封面渲染
             name: '',
             repo: ''
         }
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 
 </html>
